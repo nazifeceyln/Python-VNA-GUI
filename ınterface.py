@@ -1,3 +1,5 @@
+#Yazar: Nazife CEYLAN
+
 import sys
 from PyQt5.QtWidgets import (
     QApplication, QMainWindow, QMenu, QMenuBar, QStatusBar, QToolBar, QAction, 
@@ -366,3 +368,4 @@ app = QApplication(sys.argv)
 window = MainWindow()
 window.show()
 sys.exit(app.exec_())
+
