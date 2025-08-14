@@ -1,3 +1,5 @@
+#Yazar: Nazife CEYLAN
+
 import time
 from libreVNA import libreVNA
 
